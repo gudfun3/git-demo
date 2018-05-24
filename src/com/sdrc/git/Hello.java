@@ -7,6 +7,7 @@ public class Hello {
 		System.out.println("git-demo");
 		System.out.println("git-demo");
 		System.out.println("changes made to check git pull request");
+		System.out.println("changes made to check git pull request");
 	}
 
 }
